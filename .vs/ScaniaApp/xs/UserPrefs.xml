@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{58F6A65D-AB59-471C-90AB-176209CA538B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ScaniaApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScaniaApp/Startup.cs">
+    <Files>
+      <File FileName="ScaniaApp/Startup.cs" Line="13" Column="2" />
+      <File FileName="../../.nuget/packages/oracle.manageddataaccess/19.6.0/readme.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScaniaApp" expanded="True">
+            <Node name="ScaniaApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
